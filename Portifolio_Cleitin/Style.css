@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    border: 10px;color: white;
+}
+img{height: 300
+;}
+nav {
+    text-align: center;
+    color: green;
+}
+h1, p {text-align: center;
+    color: green;
+    font-family:cursive;
+}
+
+h2 {
+ color: cyan;
+ font-family: cursive;
+}
+.borda{
+    color: white;
+    border: 2px solid white;
+
+}
+ul {
+    color: red;
+}
+ul#primeiro{
+    color: orange;
+}
